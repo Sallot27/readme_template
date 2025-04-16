@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" alt="Sallot27 Logo" width="150"/>
+  <img src="icon.jpg" alt="Sallot27 Logo" width="150"/>
 </p>
 
 # Project Name
